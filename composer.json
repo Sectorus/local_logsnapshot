@@ -1,0 +1,15 @@
+{
+    "name": "stephan/logsnapshot",
+    "require": {
+        "phpseclib/phpseclib": "^3.0"
+    },
+    "require-dev": {
+        "phpseclib/phpseclib": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Stephan Lorbek",
+            "email": "lorbeks94@univie.ac.at"
+        }
+    ]
+}
